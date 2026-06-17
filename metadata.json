@@ -1,0 +1,6 @@
+{
+  "name": "Smart AI Workspace",
+  "description": "An interactive smart productivity dashboard featuring structured planning cards, instant AI refinement, text analysis, and conversation powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
